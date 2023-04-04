@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   tencent_im_sdk_plugin:
-    git: git@e.coding.net:micropoplar/proj-ourschool/tencent_im_sdk_plugin.git
+    git: git@github.com:hellohejinyu/tencent_im_sdk_plugin.git
 
 dev_dependencies:
   build_runner: any
