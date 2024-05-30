@@ -1,6 +1,6 @@
 name: tencent_im_base
 description: The base class for Tencent IM Flutter projects, includes TUIKit and plugins.
-version: 0.0.55
+version: 0.0.56
 publish_to: none
 
 environment:
